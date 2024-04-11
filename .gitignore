@@ -1,0 +1,14 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore ctags
+tags
+
+# Ignore ctags
+*.o
