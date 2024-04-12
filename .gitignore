@@ -7,8 +7,8 @@
 # Unignore all dirs
 !*/
 
-# Ignore ctags
-tags
-
-# Ignore ctags
+# Compiled Object files
 *.o
+
+# Build directory
+build/
